@@ -1,6 +1,8 @@
 package com.retailmanagement.bean;
 
 public class ShopAddress {
+
+
 	private long shopNumber;
 	private int shopPostCode;
 	private String shopPlace;
