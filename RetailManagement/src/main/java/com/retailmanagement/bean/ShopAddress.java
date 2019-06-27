@@ -5,6 +5,7 @@ public class ShopAddress {
 	private int shopPostCode;
 	private String shopPlace;
 
+mjjnkjkljskjskj
 	public long getShopNumber() {
 		return shopNumber;
 	}
